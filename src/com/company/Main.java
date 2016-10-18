@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        //What it does:
+        //What it does: makes string all caps or all lowercase
         /*
         CAPS or opposite
          */
